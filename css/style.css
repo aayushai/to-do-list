@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Lemonada');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%
+	
+}
+
+div{
+	display: block;
+	width: 500px;
+	margin: auto;
+	size: 400px;
+	font-size: 40px;
+
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: rgb(45, 45, 128);
+	font-family: 'Poppins', cursive !important;
+	text-transform: uppercase;
+}
+
+ul{
+	margin:0;
+	padding: 0;
+}
+
+#completed-tasks span{
+	text-decoration: line-through;
+	font-size: 30px !important;
+}
+
+.backg{
+	background-image: "/Users/Aayush/Downloads/To-Do-List-master/b1.jpg";
+	background-size: auto;	
+	
+}
+
+.bu{
+	font-size: 30px;
+}
+
+button{
+	font-size: 30px;
+}
